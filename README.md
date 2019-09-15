@@ -14,6 +14,6 @@ Screenshots
 ----------
 * **Home**<br>
 <p float="left">
-<img src="https://github.com/ahmadzuh/Belajar-Dart/blob/master/screenshot/program-helloworld.png" alt="Login" width="600dp" height="600dp">          
-<img src="https://github.com/ahmadzuh/Belajar-Dart/blob/master/screenshot/input-output.png" alt="Detail Blog" width="600dp" height="600dp">
+<img src="https://github.com/ahmadzuh/Belajar-Dart/blob/master/screenshot/program-helloworld.png" alt="Login" width="600dp" height="300dp">          
+<img src="https://github.com/ahmadzuh/Belajar-Dart/blob/master/screenshot/input-output.png" alt="Detail Blog" width="600dp" height="300dp">
 </p>
