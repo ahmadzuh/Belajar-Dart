@@ -1,9 +1,11 @@
 # belajar-dart
 Belajar Bahasa Pemrograman Dart
-# YukKajian
 
 Deskripsi
 ---------
+From petanikode
+https://www.petanikode.com/belajar-dart/
+
 Hello, selamat datang di “tutorial instan” belajar bahasa pemrograman Dart.
 
 Ini adalah tutorial yang saya buat untuk mereka yang ingin belajar bahasa pemrograman Dart dengan cepat.
